@@ -4,7 +4,7 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/🐿️_I'm_Tally-de722c?style=for-the-badge"/>
   <br>
-  <img src="https://img.shields.io/badge/⏳_33%25_Progress-6dde2c"/>
+  <img src="https://img.shields.io/badge/⏳_60%25_Progress-6dde2c"/>
   <img src="https://img.shields.io/badge/🏗️_Version_0.1.1-deb42c"/>
 </div>
 
