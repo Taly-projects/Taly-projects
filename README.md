@@ -4,7 +4,7 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/🐿️_I'm_Tally-de722c?style=for-the-badge"/>
   <br>
-  <img src="https://img.shields.io/badge/⏳_75%25_Progress-deb42c"/>
+  <img src="https://img.shields.io/badge/⏳_88%25_Progress-deb42c"/>
   <img src="https://img.shields.io/badge/⚙️_Version_0.1.1-6dde2c"/>
 </div>
 
@@ -17,4 +17,4 @@
 ### Version
 - **Current Release:** v0.1.1
 - **Development:** v0.2.0
-- **Progress:** 75%
+- **Progress:** 88%
