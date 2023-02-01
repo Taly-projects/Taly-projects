@@ -4,8 +4,8 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/🐿️_I'm_Tally-de722c?style=for-the-badge"/>
   <br>
-  <img src="https://img.shields.io/badge/⏳_33%25_Progress-deb42c"/>
-  <img src="https://img.shields.io/badge/⚙️_Version_0.2.0-6dde2c"/>
+  <img src="https://img.shields.io/badge/⏳_0%25_Progress-deb42c"/>
+  <img src="https://img.shields.io/badge/⚙️_Version_0.2.1-6dde2c"/>
 </div>
 
 ### About Taly
@@ -15,6 +15,6 @@
 - ⚡ Fun fact: Taly was bord on January 3rd 2023
 
 ### Version
-- **Current Release:** v0.2.0
-- **Development:** v0.2.1
-- **Progress:** 33%
+- **Current Release:** v0.2.1
+- **Development:** v0.3.0
+- **Progress:** 0%
