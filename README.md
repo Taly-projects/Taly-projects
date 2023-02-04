@@ -16,5 +16,5 @@
 
 ### Version
 - **Current Release:** v0.3.1
-- **Development:** v0.3.2
+- **Development:** v0.4.0
 - **Progress:** 0%
