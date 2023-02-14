@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Taly-projects/Taly-projects/main/taly-banner.png" height="150px"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/🐿️_I'm_Tally-de722c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🐿️_I'm_Taly-de722c?style=for-the-badge"/>
   <br>
   <img src="https://img.shields.io/badge/⏳_0%25_Progress-deb42c"/>
   <img src="https://img.shields.io/badge/⚙️_Version_0.4.1-6dde2c"/>
